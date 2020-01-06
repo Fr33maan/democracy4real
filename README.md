@@ -14,3 +14,6 @@ It must follow the constitution principles
 
 # Front
 [](Link to the front repo)
+
+# Sources
+[TedX - How the internet will one day transform the government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)
