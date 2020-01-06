@@ -15,5 +15,8 @@ It must follow the constitution principles
 # Front
 [](Link to the front repo)
 
-# Sources
+# Sources - EN
 [TedX - How the internet will one day transform the government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)
+
+# Sources - FR
+[Créer et maintenir les lois comme les logiciels libres sur GitHub ou Wikipédia ?](https://framablog.org/2012/10/02/politique-logiciel-libre-github/)
