@@ -19,17 +19,7 @@ Objectif de représentativité
 le nombre d’élus n’est pas limité. Tant que la communauté a besoin de représentants, ou qu’elle n’en trouve plus faisant l’unanimité, les candidatures sont ouvertes.
 
 
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 Objectivité
@@ -54,11 +44,7 @@ Objectif de transparence
 Aucune censure et aucun secret ne peuvent exister. Tous les comptes financiers, prestataires, code source, etc seront publics.
 
 
-
-
-
-
-
+---
 
 
 Intégration
