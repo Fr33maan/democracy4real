@@ -10,10 +10,10 @@ It should be impossible to manipulate people mind through the platform
 It must follow the constitution principles
 
 # Back
-[https://github.com/Fr33maan/democracy4real/blob/master/BACK.md](Link to the back repo)
+[Link to the back repo](https://github.com/Fr33maan/democracy4real/blob/master/BACK.md)
 
 # Front
-[https://github.com/Fr33maan/democracy4real/blob/master/FRONT.md](Link to the front repo)
+[Link to the front repo](https://github.com/Fr33maan/democracy4real/blob/master/FRONT.md)
 
 # Sources - EN
 [TedX - How the internet will one day transform the government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)
