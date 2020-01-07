@@ -13,7 +13,7 @@ It must follow the constitution principles
 [](Link to the back repo)
 
 # Front
-[](Link to the front repo)
+[https://github.com/Fr33maan/democracy4real/blob/master/FRONT.md](Link to the front repo)
 
 # Sources - EN
 [TedX - How the internet will one day transform the government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)
