@@ -10,7 +10,7 @@ It should be impossible to manipulate people mind through the platform
 It must follow the constitution principles
 
 # Back
-[](Link to the back repo)
+[https://github.com/Fr33maan/democracy4real/blob/master/BACK.md](Link to the back repo)
 
 # Front
 [https://github.com/Fr33maan/democracy4real/blob/master/FRONT.md](Link to the front repo)
