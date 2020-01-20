@@ -9,40 +9,47 @@ name
 slug
 message_id
 
-### post
-thread_id
-message_id
+### thread
+theme_id NULL
+message_id NULL
+quote_id NULL
 name
 
 ### message
-post_id
+thread_id
+
+### theme_rating
+theme_id
 
 ### thread_rating
 thread_id
 
-### post_rating
-post_id
-
 ### message_rating
 message_id
-user_id
-sincerity - INTEGER (0 to 100)
-hypocrysy - INTEGER (0 to 100)
-calmness
-wiseness
-correctly_sourced
-argumentary quality
-anger
-manipulative
-truth
-listening
-empathetic
-objective
+user_id  
+sincerity - INTEGER (0 to 100)  
+hypocrysy - INTEGER (0 to 100)  
+calmness  
+wiseness  
+correctly_sourced  
+argumentary quality  
+anger  
+manipulative  
+truth  
+listening  
+empathetic  
+objective  
+listening  
 
 ### message_source
 **Message sources in order to increase 'correctly_sourced' rating**
 message_id
 url
+
+### quote
+**Pick a sentence and open a thread**
+quote_content
+message_id
 
 ### source_rating
 fiability - INTEGER (0 to 100)
